@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "13ace166-84b5-4283-bb63-df9e845a2f8b",
+      "011462fd-d50d-4fd1-863a-87c3ac762943"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e3365c13-bd71-4911-a310-11037d80bf04",
+    "website": "design-and-manufacturing-i"
+  },
+  "course_title": "Design and Manufacturing I",
+  "hide_download": true,
+  "course_description": "This course develops students' competence and self-confidence as design engineers. It emphasizes the creative design process bolstered by application of physical laws. Robustness and manufacturability are emphasized, too. Students will learn how to complete projects on schedule and within budget. Subject relies on active learning via a major design-and-build project.",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.007",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "design-and-manufacturing-i"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Activity Assignments with Examples",
+    "Projects with Examples"
+  ],
+  "site_uid": "adcc6415-7c5d-49e4-a0f1-155cbc7356ea",
+  "site_short_id": "2.007-spring-2023",
+  "site_url_path": "courses/2-007-design-and-manufacturing-i-spring-2023"
+}
